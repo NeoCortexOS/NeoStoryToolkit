@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Asset Pack from the Unity Asset store
+[Aa]ssets/Asset Packs/*
+
+# stuff I am testing
+[Aa]ssets/Neo/*
+
