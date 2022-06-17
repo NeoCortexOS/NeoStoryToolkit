@@ -1,4 +1,4 @@
-# Attenton, please!
+# Attention, please!
 this initial release is just a barebones system, as I just decided to implement the **Yarn Spinner** tools as the backbone for the story flow.
 So I decided to stop working on the tutorial until I have a stable system again.
 
